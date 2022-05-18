@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/drawable/button.xml" value="0.1915" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/drawable/forget.xml" value="0.1915" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/drawable/ic_baseline_add_shopping_cart_24.xml" value="0.1" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1915" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/drawable/ic_baseline_not_listed_location_24.xml" value="0.111" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1105" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_calender.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_calender_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_chatting.xml" value="0.22" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_chatting2.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_chatting_otp.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_chatting_set_profile.xml" value="0.22" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_chattingverification.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_language_selection.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_main.xml" value="0.17239583333333333" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_main2.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_manager_panel.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_manager_panel_main.xml" value="0.18" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_order_add.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_order_adding.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_order_details.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_order_main.xml" value="0.25" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_orders.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_purchase_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_register.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_register_driver.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_registration.xml" value="0.22" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_role_selection_eng.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_sign_in_eng.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_sign_in_eng2.xml" value="0.1046875" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/activity_sign_in_urdu.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/app_bar_main2.xml" value="0.1" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/app_bar_manager_panel.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/app_bar_manager_panel_main.xml" value="0.15" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/calender_fragment.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/chatting_fragment.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/content_main2.xml" value="0.1" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/content_manager_panel.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/content_manager_panel_main.xml" value="0.15" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/fragment_calender.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/fragment_chatting.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/fragment_gallery.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/fragment_home.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/fragment_slideshow.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/nav_header_manager_panel.xml" value="0.25" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/nav_header_manager_panel_main.xml" value="0.1" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/layout/navheader.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/menu/activity_main2_drawer.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/menu/activity_main_drawer.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/menu/manager_panel.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/menu/manager_panel_main.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/menu/menu.xml" value="0.18645833333333334" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1105" />
+        <entry key="..\:/data e drive/KEEPINTRACK/app/src/main/res/xml/network_security_config.xml" value="0.18645833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
